@@ -11,10 +11,7 @@
   },
   "pre-commit": [],
   "dependencies": {
-    "ensure-path": "^0.0.1",
-    "octonode": "^0.9.2",
-    "read-webfile": "^0.2.1",
-    "request": "^2.87.0",
+    "axios": "^0.18.0",
     "yargs": "^11.0.0"
   },
   "devDependencies": {
